@@ -31,6 +31,7 @@ input{
     font-size: 40px;
     text-align: right;
     cursor: pointer;
+    color: white;
 }
 
 input::placeholder{
@@ -52,4 +53,8 @@ button{
 
 .equal-btn{
     background-color: rgba(0, 255, 255, 0.37);
+}
+
+.operator{
+    color: rgba(69, 235, 48, 0.911);
 }
